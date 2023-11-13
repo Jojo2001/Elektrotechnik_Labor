@@ -1,0 +1,25 @@
+Circuit: * C:\Users\johan\OneDrive\01_Studium_TIB\02.Semester\04_Elektrotechnik_2\Labor\Draft1.asc
+
+.OP point found by inspection.
+.step cj=1e-11
+.step cj=3e-11
+.step cj=5e-11
+
+Date: Mon Nov 13 13:42:16 2023
+Total elapsed time: 0.449 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 662
+traniter = 662
+tranpoints = 332
+accept = 304
+rejected = 28
+matrix size = 3
+fillins = 0
+solver = Normal
+Avg thread counts: 9.1/13.2/13.3/9.1
+Matrix Compiler1:       3 opcodes  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
